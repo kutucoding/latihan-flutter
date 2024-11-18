@@ -26,7 +26,7 @@ class firstscreen extends StatelessWidget{
         ),
       ),
       body: const Center(
-        child: Text('Halo Kamu!'),
+        child: Text('Halo Dia!'),
       ),
       floatingActionButton: FloatingActionButton(
           child: const Icon(
